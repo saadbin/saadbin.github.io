@@ -2,115 +2,237 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Saadbin Khan
+  given: Saadbin
+  family: Khan
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
   - PhD
   - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+#status:
+#  icon: "☕️"
+role: Ph.D. Candidate in Engineering Mechanics
+
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  <span style="font-size:1.3rem; line-height:1.7;">
+
+  Hello! I am a mechanical engineer and Ph.D. candidate specializing in computational fluid dynamics, thermofluids, and multiscale transport phenomena. My background includes:
+
+  ✦ 9+ years of experience in CFD simulations of flow and transport using OpenFOAM, Python, Fortran, C++, MATLAB, ANSYS Fluent, and SolidWorks; spanning microscale Stokes regime to atmospheric turbulence.
+
+  ✦ 7+ years of experience in data-driven modeling, numerical analysis, nonlinear regression, data processing, visualization, and high-performance computing.
+
+  ✦ 5+ years of interdisciplinary research experience at the interface of computational mechanics and biological sciences.
+
+  ✦ 4+ years of experience in SolidWorks CAD, custom meshing and geometry processing using snappyHexMesh and Meshmixer, and scientific visualization using ParaView.
+
+  ✦ 1 year of experience with particle-based rarefied gas simulations using the Direct Simulation Monte Carlo (DSMC) method.
+
+  </span>
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Laboratory for Fluid Dynamics in Nature (FINLAB), Virginia Tech 
+    url: https://www.stapleslab.org/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:saadbin@vt.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
+  #- icon: brands/x
+  #  url: https://x.com/example
+  #- icon: brands/github
+  #  url: https://github.com/saadbin
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://linkedin.com/in/saadbinkhan/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=nklF5nsAAAAJ&hl=en
+  - icon: academicons/researchgate
+    url: https://researchgate.net/profile/Saadbin-Khan
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-2624-9309
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Computational Fluid Dynamics
+  - Multiscale Heat and Mass Transfer
+  - Data-Driven and Inverse Modeling
+  - Numerical Methods and High Performance Computing
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Ph.D. in Engineering Mechanics
+    institution: Virginia Tech
+    #start: 2021
+    end: 2026 (exp.)
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Dissertation: The role of hydrodynamic slip and fine tracheal geometry in insect respiratory flow
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: M.S. in Mechanical & Aerospace Engineering
+    institution: Oklahoma State University
+    #start: 2017
+    end: 2019
+    summary: |
+      Thesis: Near wall structure and deviation from equilibrium in wavy channel turbulence
+  - degree: B.S. in Mechanical Engineering
+    institution: Bangladesh University of Engineering and Technology
+    #start: 2011
+    end: 2016
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Assistant
+    org: Laboratory for Fluid Dynamics in Nature (FINLAB), Virginia Tech
+    start: 2022-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
+      Performing computational research on insect respiratory transport using OpenFOAM, OpenLB, Python, C++, high-performance computing, and direct simulation Monte Carlo (DSMC). Investigating hydrodynamic slip, rarefied gas effects, tracheal microstructures, and microscale-informed modifications to Murray’s law for biological transport networks.
+
+  - role: Instructor of Record
+    org: Department of Mechanical Engineering, Virginia Tech
+    start: 2025-01-01
+    end: 2025-12-31
+    summary: |
+      Taught Thermodynamics (ME-2134), including lecture delivery, assessment preparation, grading, course management, and student support.
+
+  - role: Teaching Assistant
+    org: Virginia Tech
+    start: 2021-08-01
+    summary: |
+      Assisted courses including Fluid Mechanics: Control Volumes, Dynamics, Thermodynamics, and Engineering Analysis of Physiological Systems.
+
+  - role: Research Fellow
+    org: BIOTRANS / STRETCH Lab, Virginia Tech
+    start: 2022-01-01
+    end: 2022-12-31
+    summary: |
+      Quantified collagen fiber waviness from SHG image stacks using CT-FIRE, straightness metrics, and orientation analysis. Evaluated algorithm performance for highly wavy and non-uniform fiber images.
+
+  - role: Research Fellow
+    org: BIOTRANS / Socha Lab, Virginia Tech
+    start: 2021-01-01
+    end: 2021-12-31
+    summary: |
+      Assembled and operationalized a Leica RM2125RTS rotary microtome, supported protocol development, and documented procedures for repeatable tissue sectioning.
+
+  - role: Research Assistant
+    org: Computational & Flow Science Research Laboratory, Oklahoma State University
+    start: 2017-08-01
     end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducted direct numerical simulations of turbulent wavy-channel flow using Fortran, Incompact3D, MPI, Python, HPC resources, immersed boundary methods, and ANSYS Fluent. Developed post-processing pipelines and performed data-driven turbulence analysis for LES-relevant modeling.
+
+  - role: Research Assistant
+    org: Oklahoma State University / Baker Hughes GE Project
+    start: 2018-01-01
+    end: 2018-12-31
+    summary: |
+      Developed Python-based atmospheric plume dispersion and sparse-reconstruction source inversion models for remote leak detection using limited concentration data.
+
+  - role: Teaching Assistant
+    org: Oklahoma State University
+    start: 2017-08-01
+    end: 2019-12-31
+    summary: |
+      Assisted Engineering Analysis & Methods and Thermodynamics II in the Department of Mechanical and Aerospace Engineering.
+
+  - role: Engineering Intern
+    org: Bangladesh Atomic Energy Commission
+    start: 2016-01-01
+    end: 2016-12-31
+    summary: |
+      Inspected structural safety, control rod operation, and cooling water regulation in a 3 MW nuclear research reactor.
 
 skills:
-  - name: Technical Skills
+  - name: Programming & Scientific Computing
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: MATLAB
         level: 5
-      - label: Cloud Computing
+      - label: Fortran
+        level: 5
+      - label: C++
         level: 4
-  - name: Research & Communication
+      - label: C
+        level: 4
+      - label: Open MPI / HPC
+        level: 4
+      - label: Mathematica
+        level: 3
+
+  - name: CFD, Transport & Numerical Modeling
     items:
-      - label: Academic Writing
+      - label: OpenFOAM
+        level: 5
+      - label: ANSYS Fluent
+        level: 4
+      - label: OpenLB
+        level: 4
+      - label: Incompact3D
+        level: 4
+      - label: COMSOL
+        level: 4
+      - label: Direct Simulation Monte Carlo (DSMC)
+        level: 4
+      - label: Immersed Boundary Method
+        level: 4
+      - label: Finite Element Method
+        level: 4
+
+  - name: CAD, Meshing & Visualization
+    items:
+      - label: SolidWorks
+        level: 4
+      - label: snappyHexMesh
+        level: 4
+      - label: Mesh Processing & Repair
+        level: 4
+      - label: ParaView
+        level: 5
+      - label: Tecplot
+        level: 4
+      - label: ImageJ / CT-FIRE
+        level: 4
+
+  - name: Research, Teaching & Communication
+    items:
+      - label: Scientific Writing
+        level: 5
+      - label: Thermodynamics
+        level: 5
+      - label: Fluid Mechanics
+        level: 5
+      - label: Data Visualization
         level: 5
       - label: Conference Presentations
         level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: LaTeX
+        level: 5
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Bangla
+    level: 5
+    label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Alice & Dan Pletta Scholarship
+    awarder: Engineering Mechanics Graduate Program, Virginia Tech
+    date: "2026-01-01"
+    summary: Awarded in recognition of the challenging nature of Ph.D. research on computational modeling of microscale transport and multiscale flow physics.
+    icon: hero/trophy
+
+  - title: BIOTRANS Fellowship
+    awarder: Interdisciplinary Graduate Education Program, Virginia Tech
+    date: "2021-01-01"
+    summary: Fellowship supporting interdisciplinary research in biological transport systems.
+    icon: hero/academic-cap
+
+  - title: Champion, Bangladesh Mathematical Olympiad
+    awarder: Bangladesh Mathematical Olympiad Committee
+    date: "2010-01-01"
+    summary: Champion in the 6th and 8th Bangladesh Mathematical Olympiads.
     icon: hero/trophy

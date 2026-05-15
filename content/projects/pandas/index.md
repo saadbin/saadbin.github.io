@@ -5,7 +5,7 @@ links:
   - type: site
     url: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
+  - Hugoo
   - HugoBlox
   - Markdown
 ---
