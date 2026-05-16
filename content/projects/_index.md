@@ -8,15 +8,18 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      count: 0
+      # text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - projects
+      sort_by: 'weight'
+      sort_ascending: true
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
       show_date: false
-      show_read_time: false
+      show_read_time: true
       show_read_more: false
 ---

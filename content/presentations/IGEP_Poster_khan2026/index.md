@@ -38,5 +38,5 @@ links:
   - type: poster
     url: Poster_Saadbin_IGEP.pdf
 
-projects: []
+projects: [insect-respiration]
 ---

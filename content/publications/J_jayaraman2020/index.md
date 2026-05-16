@@ -1,5 +1,5 @@
 ---
-title: "Direct Numerical Simulation of Turbulence over Two-Dimensional Waves"
+title: "Direct numerical simulation of turbulence over two-dimensional waves"
 
 authors:
   - Balaji Jayaraman
@@ -46,7 +46,7 @@ image:
   focal_point: "Center"
   preview_only: false
 
-projects: []
+projects: [turbulence]
 
 slides: ""
 ---

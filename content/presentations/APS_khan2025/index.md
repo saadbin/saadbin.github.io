@@ -43,5 +43,5 @@ featured: false
 #  caption: 'A modified Murray’s law for insect respiration'
 #  focal_point: Center
 
-projects: []
+projects: [insect-respiration]
 ---

@@ -44,5 +44,5 @@ links:
   - type: pdf
     url: OSU_symp_slides.pdf
 
-projects: []
+projects: [plume-inversion]
 ---

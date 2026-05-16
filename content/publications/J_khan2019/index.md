@@ -1,5 +1,5 @@
 ---
-title: "Statistical Structure and Deviations from Equilibrium in Wavy Channel Turbulence"
+title: "Statistical structure and deviations from equilibrium in wavy channel turbulence"
 
 authors:
   - me
@@ -45,7 +45,7 @@ image:
   focal_point: "Center"
   preview_only: false
 
-projects: []
+projects: [turbulence]
 
 slides: ""
 ---

@@ -54,5 +54,5 @@ links:
 # Link to your Markdown slides
 # slides: "example"
 
-projects: []
+projects: [insect-respiration]
 ---

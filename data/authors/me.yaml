@@ -13,27 +13,18 @@ postnominals:
   - MIEEE
 #status:
 #  icon: "☕️"
-role: Ph.D. Candidate in Engineering Mechanics
+role: Ph.D. Candidate, Virginia Tech
 
 bio: |
   <span style="font-size:1.3rem; line-height:1.7;">
 
-  Hello! I am a mechanical engineer and Ph.D. candidate specializing in computational fluid dynamics, thermofluids, and multiscale transport phenomena. My background includes:
-
-  ✦ 9+ years of experience in CFD simulations of flow and transport using OpenFOAM, Python, Fortran, C++, MATLAB, ANSYS Fluent, and SolidWorks; spanning microscale Stokes regime to atmospheric turbulence.
-
-  ✦ 7+ years of experience in data-driven modeling, numerical analysis, nonlinear regression, data processing, visualization, and high-performance computing.
-
-  ✦ 5+ years of interdisciplinary research experience at the interface of computational mechanics and biological sciences.
-
-  ✦ 4+ years of experience in SolidWorks CAD, custom meshing and geometry processing using snappyHexMesh and Meshmixer, and scientific visualization using ParaView.
-
-  ✦ 1 year of experience with particle-based rarefied gas simulations using the Direct Simulation Monte Carlo (DSMC) method.
+  Hello! I am a mechanical engineer and Ph.D. candidate at Virginia Tech, specializing in computational fluid dynamics, thermofluids, multiscale transport, inverse modeling, and HPC.
 
   </span>
+        
 
 affiliations:
-  - name: Laboratory for Fluid Dynamics in Nature (FINLAB), Virginia Tech 
+  - name: Laboratory for Fluid Dynamics in Nature 
     url: https://www.stapleslab.org/
 
 links:
@@ -55,6 +46,7 @@ links:
 
 interests:
   - Computational Fluid Dynamics
+  - Thermofluids
   - Multiscale Heat and Mass Transfer
   - Data-Driven and Inverse Modeling
   - Numerical Methods and High Performance Computing
@@ -236,3 +228,13 @@ awards:
     date: "2010-01-01"
     summary: Champion in the 6th and 8th Bangladesh Mathematical Olympiads.
     icon: hero/trophy
+
+section:
+  - block: markdown
+    content:
+      title: Research Interests
+      text: |
+        - Computational Fluid Dynamics
+        - Heat and Mass Transfer
+        - Bio-inspired Transport
+        - Rarefied Gas Dynamics

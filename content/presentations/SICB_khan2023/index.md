@@ -39,5 +39,5 @@ tags:
 
 featured: false
 
-projects: []
+projects: [insect-respiration]
 ---

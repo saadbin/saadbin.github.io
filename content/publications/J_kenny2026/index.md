@@ -3,12 +3,12 @@ title: |
   Does Murray’s law apply to the tracheal system in insects? A 3D study of the beetle Platynus decentis
 
 authors:
-  - Melissa C. Kenny
-  - Laura A. Miller
-  - Mark A. Stremler
-  - Anne E. Staples
+  - Melissa C Kenny
+  - Laura A Miller
+  - Mark A Stremler
+  - Anne E Staples
   - me
-  - John J. Socha
+  - John J Socha
 
 date: ""
 publishDate: "2025-12-15"
@@ -44,7 +44,7 @@ featured: false
 #  focal_point: "Center"
 #  preview_only: false
 
-projects: []
+projects: [insect-respiration]
 
 slides: ""
 ---

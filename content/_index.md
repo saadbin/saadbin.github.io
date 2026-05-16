@@ -20,6 +20,8 @@ sections:
         education: ''
         interests: ''
     design:
+      spacing:
+        padding: ['0rem', '0', '0', '0']
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
@@ -56,16 +58,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: presentations
-    content:
-      title: 'Presentations'
-      count: 0
-      filters:
-        folders:
-          - presentations
-    design:
-      view: citation
+  # - block: collection
+  #   id: presentations
+  #   content:
+  #     title: 'Presentations'
+  #     count: 0
+  #     filters:
+  #       folders:
+  #         - presentations
+  #   design:
+  #     view: citation
   - block: collection
     id: news
     content:

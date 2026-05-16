@@ -40,5 +40,5 @@ links:
     name: flyer
     url: EM_Symp_khan2023_flyer.pdf
 
-projects: []
+projects: [insect-respiration]
 ---

@@ -50,5 +50,5 @@ links:
     name: Abstract
     url: https://meetings.aps.org/Meeting/DFD24/Session/ZC05.5
 
-projects: []
+projects: [insect-respiration]
 ---

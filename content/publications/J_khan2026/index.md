@@ -1,9 +1,9 @@
 ---
-title: "A Tidal Murray’s Law for Insect Respiratory Networks"
+title: "A tidal Murray’s law framework inspired by insect respiration"
 
 authors:
   - me
-  - Anne E. Staples
+  - Anne E Staples
 
 date: ""
 publishDate: "2026-05-14"
@@ -46,7 +46,7 @@ image:
   focal_point: "Center"
   preview_only: false
 
-projects: []
+projects: [insect-respiration]
 
 slides: ""
 ---
