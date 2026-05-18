@@ -145,7 +145,7 @@ Using only a small amount of concentration data, the framework can simultaneous 
 
 ## Conference Presentation
 
-- Saadbin Khan, Balaji Jayaraman (2018). [Assessment of atmospheric plume source inversion using sparse reconstruction and Gaussian dispersion](/presentations/OSU_Symp_khan2018). In: *2nd Annual OSU MAE Graduate Research Symposium*. Stillwater, OK, USA: Oklahoma State University.
+- Saadbin Khan, Balaji Jayaraman (2018). [Assessment of atmospheric plume source inversion using sparse reconstruction and Gaussian dispersion](/presentations/osu_symp_khan2018). In: *2nd Annual OSU MAE Graduate Research Symposium*. Stillwater, OK, USA: Oklahoma State University.
 
 ---
 

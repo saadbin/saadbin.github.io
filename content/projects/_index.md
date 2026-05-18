@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Projects
       count: 0
       # text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
@@ -18,7 +18,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 2
+      columns: 3
       show_date: false
       show_read_time: true
       show_read_more: false

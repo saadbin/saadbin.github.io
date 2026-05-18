@@ -7,6 +7,7 @@ authors:
 
 date: "2019-08-27"
 publishDate: "2019-08-27"
+weight: 40
 
 publication_types: ["article-journal"]
 

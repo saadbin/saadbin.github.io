@@ -31,7 +31,7 @@ Collagen fibers are the primary structural components of ligaments and play a cr
 <div class="gallery">
 
   <figure>
-    <img src="SHG_extraction.jpg" alt="Collagen fiber waviness quantification">
+    <img src="shg_extraction_1.jpg" alt="Collagen fiber waviness quantification">
     <figcaption>
       Fiber extraction from an SHG image using CT-FIRE.
       Source:
@@ -69,7 +69,7 @@ The robustness of CT-FIRE was further evaluated using synthetic curves with vary
 <div class="gallery">
 
   <figure>
-    <img src="CT-FIRE_effectiveness.jpg" alt="CT-FIRE limitations">
+    <img src="ctfire_effectiveness.jpg" alt="CT-FIRE limitations">
     <figcaption>
       Effectiveness check for CT-FIRE using curves with varying width, waviness, and opacity. Markers at the bottom indicate curves that the algorithm succeeds (green) or fails (red) to trace. 
     </figcaption>
@@ -92,7 +92,18 @@ The analysis showed:
 <div class="gallery">
 
   <figure>
-    <img src="stat_20images.jpg" alt="Fiber statistics">
+    <img src="shg_extraction_2.jpg" alt="Fiber statistics">
+    <figcaption>
+      Traced fibers overlaid on one of the sample images. Data courtesy: STRETCH Lab.
+    </figcaption>
+  </figure>
+
+</div>
+
+<div class="gallery">
+
+  <figure>
+    <img src="stat_fibers.jpg" alt="Fiber statistics">
     <figcaption>
       Straightness and orientation statistics over 20 sample images.
     </figcaption>

@@ -10,6 +10,7 @@ authors:
 
 date: "2016-01-01"
 publishDate: "2016-01-01"
+weight: 50
 
 publication_types: ["Conference article"]
 
@@ -31,7 +32,6 @@ tags:
   - Nanofluid
   - Mixed Convection
   - Finite Element Analysis
-  - CFD
 
 featured: true
 
@@ -44,7 +44,7 @@ image:
   focal_point: "smart"
   preview_only: false
 
-projects: []
+projects: [nanofluid-heat-transfer]
 
 slides: ""
 ---

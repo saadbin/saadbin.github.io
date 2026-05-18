@@ -7,6 +7,7 @@ authors:
 
 date: "2020-02-21"
 publishDate: "2020-02-21"
+weight: 30
 
 publication_types: ["article-journal"]
 
@@ -52,7 +53,7 @@ slides: ""
 ---
 
 This work extends the earlier publication
-[Statistical Structure and Deviations from Equilibrium in Wavy Channel Turbulence](/publications/J_khan2019/)
+[Statistical Structure and Deviations from Equilibrium in Wavy Channel Turbulence](/publications/j_khan2019/)
 by focusing specifically on Reynolds-stress transport physics and turbulence production mechanisms over sinusoidal surfaces. Using highly resolved direct numerical simulations (DNS) of fully developed turbulent channel flow between infinitely wide two-dimensional sinusoidal walls, the study systematically investigates how increasing wave slope alters the spatial structure of turbulence generation, pressure–strain redistribution, and anisotropy dynamics within the near-wall region.
 
 Unlike the earlier study that primarily emphasized deviations from equilibrium turbulence structure and roughness characterization, this work performs a deeper transport-equation-level analysis of Reynolds stress budgets and identifies the distinct physical mechanisms responsible for streamwise, wall-normal, and spanwise turbulence production over wavy geometries. The simulations reveal that streamwise turbulence production is concentrated predominantly on the leeward side of the wave, while vertical turbulence production is amplified along the windward face due to strong pressure–strain interactions. The work further demonstrates how increased wave slope accelerates return toward isotropy, modifies buffer-layer dynamics, and increases the contribution of form drag relative to viscous drag.

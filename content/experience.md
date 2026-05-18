@@ -14,20 +14,19 @@ sections:
     content:
       title: Summary
       text: |-
-        
         <div style="width: 65vw; position: relative; left: 0%; transform: translateX(-10%);">
 
-        ✦ **Expertise: Computational Fluid Dynamics | Thermofluids | Multiscale Transport | Inverse Modeling | HPC**
+        ✧ **Expertise: Computational Fluid Dynamics | Thermofluids | Multiscale Transport | Inverse Modeling | HPC**
 
-        ✦ **9+ years** of experience in CFD simulations of flow and transport using OpenFOAM, Python, Fortran, C++, MATLAB, ANSYS Fluent, and SolidWorks; spanning microscale Stokes regime to atmospheric turbulence.
+        ✧ **9+ years** of experience in CFD simulations of flow and transport using OpenFOAM, Python, Fortran, C++, MATLAB, ANSYS Fluent, and SolidWorks; spanning microscale Stokes regime to atmospheric turbulence.
 
-        ✦ **7+ years** of experience in data-driven modeling, numerical analysis, nonlinear regression, data processing, visualization, and high-performance computing.
+        ✧ **7+ years** of experience in data-driven modeling, numerical analysis, nonlinear regression, data processing, visualization, and high-performance computing.
 
-        ✦ **5+ years** of interdisciplinary research experience at the interface of computational mechanics and biology.
+        ✧ **5+ years** of interdisciplinary research experience at the interface of computational mechanics and biology.
 
-        ✦ **4+ years** of experience in SolidWorks CAD, custom meshing and geometry processing using snappyHexMesh and Meshmixer, and scientific visualization using ParaView.
+        ✧ **4+ years** of experience in SolidWorks CAD, custom meshing and geometry processing using snappyHexMesh and Meshmixer, and scientific visualization using ParaView.
 
-        ✦ **1 year** of experience with particle-based rarefied gas simulations using Direct Simulation Monte Carlo method.
+        ✧ **1 year** of experience with particle-based rarefied gas simulations using Direct Simulation Monte Carlo method.
         </div>
     design:
       css_class: "wide-summary"

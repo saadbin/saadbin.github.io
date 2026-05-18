@@ -10,7 +10,6 @@ name:
   pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
 #status:
 #  icon: "☕️"
 role: Ph.D. Candidate, Virginia Tech
@@ -18,7 +17,7 @@ role: Ph.D. Candidate, Virginia Tech
 bio: |
   <span style="font-size:1.3rem; line-height:1.7;">
 
-  Hello! I am a mechanical engineer and Ph.D. candidate at Virginia Tech, specializing in computational fluid dynamics, thermofluids, multiscale transport, inverse modeling, and HPC.
+  Mechanical engineer and Ph.D. candidate at Virginia Tech, specializing in computational fluid dynamics, thermofluids, multiscale transport, inverse modeling, and HPC.
 
   </span>
         
@@ -58,82 +57,80 @@ education:
     end: 2026 (exp.)
     summary: |
       Dissertation: The role of hydrodynamic slip and fine tracheal geometry in insect respiratory flow
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
+    # button:
+    #   text: Download dissertation
+    #   url: /resume.pdf
+    #   icon: hero/arrow-down-tray
   - degree: M.S. in Mechanical & Aerospace Engineering
     institution: Oklahoma State University
     #start: 2017
     end: 2019
     summary: |
       Thesis: Near wall structure and deviation from equilibrium in wavy channel turbulence
+    button:
+      text: Download Thesis
+      url: /thesis_ms.pdf
+      icon: hero/arrow-down-tray
   - degree: B.S. in Mechanical Engineering
     institution: Bangladesh University of Engineering and Technology
     #start: 2011
     end: 2016
+    summary: |
+      Thesis: Mixed convection & MHD effect analysis in a lid-driven cavity with sinusoidally curved bottom wall using CNT-water nanofluid in a porous medium
+    button:
+      text: Download Thesis
+      url: /thesis_bs.pdf
+      icon: hero/arrow-down-tray
 
 experience:
   - role: Research Assistant
     org: Laboratory for Fluid Dynamics in Nature (FINLAB), Virginia Tech
-    start: 2022-01-01
+    start: 2021-05-15
     summary: |
-      Performing computational research on insect respiratory transport using OpenFOAM, OpenLB, Python, C++, high-performance computing, and direct simulation Monte Carlo (DSMC). Investigating hydrodynamic slip, rarefied gas effects, tracheal microstructures, and microscale-informed modifications to Murray’s law for biological transport networks.
+      - Performing computational research on insect respiratory transport using OpenFOAM, OpenLB, Python, C++, high-performance computing, and direct simulation Monte Carlo (DSMC). Investigating hydrodynamic slip, rarefied gas effects, tracheal microstructures, and microscale-informed modifications to Murray’s law for biological transport networks.
 
   - role: Instructor of Record
     org: Department of Mechanical Engineering, Virginia Tech
     start: 2025-01-01
     end: 2025-12-31
     summary: |
-      Taught Thermodynamics (ME-2134), including lecture delivery, assessment preparation, grading, course management, and student support.
+      - Taught Thermodynamics (ME-2134), managed the overall course delivery.
 
   - role: Teaching Assistant
     org: Virginia Tech
-    start: 2021-08-01
+    start: 2021-01-16
     summary: |
-      Assisted courses including Fluid Mechanics: Control Volumes, Dynamics, Thermodynamics, and Engineering Analysis of Physiological Systems.
+       - Assisted courses including Fluid Mechanics: Control Volumes, Dynamics, Thermodynamics, and Engineering Analysis of Physiological Systems.
 
   - role: Research Fellow
-    org: BIOTRANS / STRETCH Lab, Virginia Tech
-    start: 2022-01-01
-    end: 2022-12-31
+    org: BIOTRANS, Virginia Tech
+    start: 2021-05-15
+    end: 2022-03-31
     summary: |
-      Quantified collagen fiber waviness from SHG image stacks using CT-FIRE, straightness metrics, and orientation analysis. Evaluated algorithm performance for highly wavy and non-uniform fiber images.
-
-  - role: Research Fellow
-    org: BIOTRANS / Socha Lab, Virginia Tech
-    start: 2021-01-01
-    end: 2021-12-31
-    summary: |
-      Assembled and operationalized a Leica RM2125RTS rotary microtome, supported protocol development, and documented procedures for repeatable tissue sectioning.
+      - STRETCH Lab: Quantified collagen fiber waviness from SHG image stacks using CT-FIRE, straightness metrics, and orientation analysis. Evaluated algorithm performance for highly wavy and non-uniform fiber images.
+      - Socha Lab: Assembled and operationalized a Leica RM2125RTS rotary microtome, supported protocol development, and documented procedures for repeatable tissue sectioning.
 
   - role: Research Assistant
     org: Computational & Flow Science Research Laboratory, Oklahoma State University
-    start: 2017-08-01
-    end: 2019-12-31
+    start: 2017-08-21
+    end: 2019-06-01
     summary: |
-      Conducted direct numerical simulations of turbulent wavy-channel flow using Fortran, Incompact3D, MPI, Python, HPC resources, immersed boundary methods, and ANSYS Fluent. Developed post-processing pipelines and performed data-driven turbulence analysis for LES-relevant modeling.
-
-  - role: Research Assistant
-    org: Oklahoma State University / Baker Hughes GE Project
-    start: 2018-01-01
-    end: 2018-12-31
-    summary: |
-      Developed Python-based atmospheric plume dispersion and sparse-reconstruction source inversion models for remote leak detection using limited concentration data.
+      - Conducted direct numerical simulations of turbulent wavy-channel flow using Fortran, Incompact3D, MPI, Python, HPC resources, immersed boundary methods, and ANSYS Fluent. Developed post-processing pipelines and performed data-driven turbulence analysis for LES-relevant modeling.
+      - Developed Python-based atmospheric plume dispersion and sparse-reconstruction source inversion models for remote leak detection using limited concentration data.
 
   - role: Teaching Assistant
     org: Oklahoma State University
-    start: 2017-08-01
-    end: 2019-12-31
+    start: 2017-08-21
+    end: 2019-05-15
     summary: |
-      Assisted Engineering Analysis & Methods and Thermodynamics II in the Department of Mechanical and Aerospace Engineering.
+      - Assisted Engineering Analysis & Methods and Thermodynamics II in the Department of Mechanical and Aerospace Engineering.
 
   - role: Engineering Intern
     org: Bangladesh Atomic Energy Commission
-    start: 2016-01-01
-    end: 2016-12-31
+    start: 2016-02-01
+    end: 2016-03-31
     summary: |
-      Inspected structural safety, control rod operation, and cooling water regulation in a 3 MW nuclear research reactor.
+      - Inspected structural safety, control rod operation, and cooling water regulation in a 3 MW nuclear research reactor.
 
 skills:
   - name: Programming & Scientific Computing
@@ -145,61 +142,51 @@ skills:
       - label: Fortran
         level: 5
       - label: C++
-        level: 4
+        level: 5
       - label: C
         level: 4
-      - label: Open MPI / HPC
+      - label: Open MPI
         level: 4
       - label: Mathematica
-        level: 3
+        level: 4
 
-  - name: CFD, Transport & Numerical Modeling
+  - name: CFD & Numerical Modeling
     items:
       - label: OpenFOAM
         level: 5
       - label: ANSYS Fluent
-        level: 4
-      - label: OpenLB
-        level: 4
-      - label: Incompact3D
-        level: 4
+        level: 5
       - label: COMSOL
         level: 4
-      - label: Direct Simulation Monte Carlo (DSMC)
+      - label: Direct Simulation Monte Carlo
         level: 4
       - label: Immersed Boundary Method
         level: 4
       - label: Finite Element Method
         level: 4
+      - label: OpenLB
+        level: 4
+      - label: HPC
+        level: 4
 
   - name: CAD, Meshing & Visualization
     items:
       - label: SolidWorks
-        level: 4
-      - label: snappyHexMesh
-        level: 4
+        level: 5
       - label: Mesh Processing & Repair
-        level: 4
+        level: 5
       - label: ParaView
         level: 5
       - label: Tecplot
-        level: 4
+        level: 3
       - label: ImageJ / CT-FIRE
-        level: 4
+        level: 3
 
-  - name: Research, Teaching & Communication
+  - name: Miscellaneous
     items:
-      - label: Scientific Writing
-        level: 5
-      - label: Thermodynamics
-        level: 5
-      - label: Fluid Mechanics
-        level: 5
-      - label: Data Visualization
-        level: 5
-      - label: Conference Presentations
-        level: 4
       - label: LaTeX
+        level: 5
+      - label: Microsoft Office
         level: 5
 
 languages:
@@ -213,28 +200,31 @@ languages:
 awards:
   - title: Alice & Dan Pletta Scholarship
     awarder: Engineering Mechanics Graduate Program, Virginia Tech
-    date: "2026-01-01"
-    summary: Awarded in recognition of the challenging nature of Ph.D. research on computational modeling of microscale transport and multiscale flow physics.
+    date: "2026-02-01"
+    summary: |
+      Awarded in recognition of the challenging nature of Ph.D. research on computational modeling of microscale transport and multiscale flow physics.
     icon: hero/trophy
 
   - title: BIOTRANS Fellowship
     awarder: Interdisciplinary Graduate Education Program, Virginia Tech
-    date: "2021-01-01"
-    summary: Fellowship supporting interdisciplinary research in biological transport systems.
+    date: "2021-05-15"
+    summary: |
+      Fellowship supporting interdisciplinary research in biological transport systems.
     icon: hero/academic-cap
 
   - title: Champion, Bangladesh Mathematical Olympiad
     awarder: Bangladesh Mathematical Olympiad Committee
     date: "2010-01-01"
-    summary: Champion in the 6th and 8th Bangladesh Mathematical Olympiads.
+    summary: |
+      Champion in the 6th and 8th Bangladesh Mathematical Olympiads.
     icon: hero/trophy
 
-section:
-  - block: markdown
-    content:
-      title: Research Interests
-      text: |
-        - Computational Fluid Dynamics
-        - Heat and Mass Transfer
-        - Bio-inspired Transport
-        - Rarefied Gas Dynamics
+# section:
+#   - block: markdown
+#     content:
+#       title: Research Interests
+#       text: |
+#         - Computational Fluid Dynamics
+#         - Heat and Mass Transfer
+#         - Bio-inspired Transport
+#         - Rarefied Gas Dynamics
