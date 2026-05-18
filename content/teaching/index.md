@@ -69,5 +69,3 @@ date: 2026-01-01
 - MATLAB
 - Python
 - Camtasia
-- Problem-solving worksheets
-- Lecture and recitation materials
