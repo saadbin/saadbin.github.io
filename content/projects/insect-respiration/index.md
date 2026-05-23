@@ -7,10 +7,10 @@ weight: 10
 links:
   - type: site
     name: Paper
-    url: /publications/J_khan2025
+    url: /publications/j_khan2025
   - type: site
     name: Poster
-    url: /presentations/IGEP_Poster_khan2026
+    url: /presentations/igep_poster_khan2026
 
 tags:
   - Computational Fluid Dynamics (Microscale Flow)

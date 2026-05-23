@@ -6,7 +6,7 @@ weight: 40
 links:
   - type: pdf
     name: Thesis
-    url: thesis_nanofluid_heat_transfer.pdf
+    url: thesis_bs.pdf
 
 tags:
   - Computational Heat Transfer

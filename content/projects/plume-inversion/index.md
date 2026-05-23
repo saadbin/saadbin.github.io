@@ -6,7 +6,7 @@ weight: 30
 links:
   - type: site
     name: Presentation
-    url: /presentations/OSU_symp_khan2018
+    url: /presentations/osu_symp_khan2018
 
 tags:
   - Inverse Problems

@@ -6,10 +6,10 @@ weight: 20
 links:
   - type: site
     name: Paper 1
-    url: /publications/J_khan2019
+    url: /publications/j_khan2019
   - type: site
     name: Paper 2
-    url: /publications/J_jayaraman2020
+    url: /publications/j_jayaraman2020
 
 tags:
   - Computational Fluid Dynamics (Turbulence)
