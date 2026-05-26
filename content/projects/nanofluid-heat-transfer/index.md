@@ -7,6 +7,9 @@ links:
   - type: pdf
     name: Thesis
     url: thesis_bs.pdf
+  - type: site
+    name: Paper
+    url: /publications/c_khan2016
 
 tags:
   - Computational Heat Transfer
