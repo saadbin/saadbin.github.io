@@ -20,14 +20,14 @@ toc: true
 
 ---
 
-## ✧ Teaching Assistant Experience
+## ✧ Teaching Assistant
 
 ### ME 2134 — Thermodynamics
 
-**2024 – Present, Virginia Tech**
+**Fall 2025 & Spring 2026, Virginia Tech**
 
-- Led problem-solving support and helped students develop conceptual and analytical understanding.
-- Assisted with grading, office hours, and course logistics.
+- Led tutoring sessions and helped students develop conceptual and analytical understanding.
+- Assisted with office hours, and course logistics.
 
 ---
 
@@ -54,7 +54,7 @@ toc: true
 
 **Fall 2022, Virginia Tech**
 
-- Led weekly problem-solving sessions and supported physiology-based engineering analysis instruction.
+- Led weekly problem-solving sessions and occasional lectures in absence of main instructor.
 - Assisted students during office hours and contributed to grading activities.
 
 ---
