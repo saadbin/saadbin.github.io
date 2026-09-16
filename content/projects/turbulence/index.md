@@ -168,9 +168,9 @@ The simulations demonstrated that surface waviness strongly alters turbulent tra
 
 ## Journal Publications
 
-- Balaji Jayaraman, Saadbin Khan (2020). [Direct numerical simulation of turbulence over two-dimensional waves](/publications/J_jayaraman2020). *AIP Advances* 10, 025034.
+- Balaji Jayaraman, Saadbin Khan (2020). [Direct numerical simulation of turbulence over two-dimensional waves](/publications/j_jayaraman2020). *AIP Advances* 10, 025034.
 
-- Saadbin Khan, Balaji Jayaraman (2019). [Statistical structure and deviations from equilibrium in wavy channel turbulence](/publications/J_khan2019). *Fluids* 4(3), 161.
+- Saadbin Khan, Balaji Jayaraman (2019). [Statistical structure and deviations from equilibrium in wavy channel turbulence](/publications/j_khan2019). *Fluids* 4(3), 161.
 
 
 ## Tools & Technologies

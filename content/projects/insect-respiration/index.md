@@ -177,39 +177,39 @@ This project has contributed to journal publications, conference proceedings, po
 
 ### Journal Articles
 
-- Saadbin Khan, Anne E Staples (2026). [A tidal Murray’s law framework inspired by insect respiration](/publications/J_khan2026). *Nature Physics* (In preparation).
+- Saadbin Khan, Anne E Staples (2026). [A tidal Murray’s law framework inspired by insect respiration](/publications/j_khan2026). *Nature Physics* (In preparation).
 
-- Melissa C Kenny, Laura A Miller, Mark A Stremler, Anne E Staples, Saadbin Khan, John J Socha (2025). [Does Murray’s law apply to the tracheal system in insects? A 3D study of the beetle Platynus decentis](/publications/J_kenny2026). *Journal of Morphology* (In preparation).
+- Melissa C Kenny, Laura A Miller, Mark A Stremler, Anne E Staples, Saadbin Khan, John J Socha (2025). [Does Murray’s law apply to the tracheal system in insects? A 3D study of the beetle Platynus decentis](/publications/j_kenny2026). *Journal of Morphology* (In preparation).
 
-- Saadbin Khan, Anne E Staples (2025). [Mechanisms of insect respiration](/publications/J_khan2025). *Nature Reviews Physics* 7(3), 1-14.
+- Saadbin Khan, Anne E Staples (2025). [Mechanisms of insect respiration](/publications/j_khan2025). *Nature Reviews Physics* 7(3), 1-14.
 
 ---
 
 ### Presentations
 
-- Saadbin Khan, Anne E Staples (2026). [A modified Murray’s law for insect respiration](/presentations/IGEP_Poster_khan2026). In: *IGEP Annual Meeting*. Blacksburg, VA, USA: Virginia Tech.
+- Saadbin Khan, Anne E Staples (2026). [A modified Murray’s law for insect respiration](/presentations/igep_poster_khan2026). In: *IGEP Annual Meeting*. Blacksburg, VA, USA: Virginia Tech.
 
-- Saadbin Khan, Anne E Staples (2025). [A modified Murray’s law for insect respiration](/presentations/APS_khan2025). In: *Bulletin of the American Physical Society*. Houston, TX, USA: APS.
+- Saadbin Khan, Anne E Staples (2025). [A modified Murray’s law for insect respiration](/presentations/aps_khan2025). In: *Bulletin of the American Physical Society*. Houston, TX, USA: APS.
 
-- Saadbin Khan, John J Socha, Khaled Adjerid, Anne E Staples (2024). [Respiratory airflow driven by propagative collapse in insect tracheae](/presentations/APS_khan2024). In: *Bulletin of the American Physical Society*. Salt Lake City, UT, USA: APS.
+- Saadbin Khan, John J Socha, Khaled Adjerid, Anne E Staples (2024). [Respiratory airflow driven by propagative collapse in insect tracheae](/presentations/aps_khan2024). In: *Bulletin of the American Physical Society*. Salt Lake City, UT, USA: APS.
 
-- Saadbin Khan, Jake Socha, Khaled Adjerid, Anne E Staples (2024). [Respiratory airflow driven by propagative collapse in insect tracheal network](/presentations/VT_Symp_khan2024). In: *Fall 2024 Fluid Mechanics Symposium*. Blacksburg, VA, USA: Virginia Tech.
+- Saadbin Khan, Jake Socha, Khaled Adjerid, Anne E Staples (2024). [Respiratory airflow driven by propagative collapse in insect tracheal network](/presentations/vt_symp_khan2024). In: *Fall 2024 Fluid Mechanics Symposium*. Blacksburg, VA, USA: Virginia Tech.
 
-- Saadbin Khan (2023). [Influence of tracheal microstructure on insect respiratory flows](/presentations/EM_Seminar_khan2023). In: *Fall 2023 Engineering Mechanics Research Seminar Series*. Blacksburg, VA, USA: Virginia Tech.
+- Saadbin Khan (2023). [Influence of tracheal microstructure on insect respiratory flows](/presentations/em_seminar_khan2023). In: *Fall 2023 Engineering Mechanics Research Seminar Series*. Blacksburg, VA, USA: Virginia Tech.
 
-- Saadbin Khan, Sara M Wilmsen, Alexander D Zaslavsky, Mrigank Dhingra, Jake Socha, Anne E Staples (2023). [Influence of tracheal microstructure on insect respiratory flows](/presentations/APS_khan2023). In: *Bulletin of the American Physical Society*. Washington, DC, USA: APS.
+- Saadbin Khan, Sara M Wilmsen, Alexander D Zaslavsky, Mrigank Dhingra, Jake Socha, Anne E Staples (2023). [Influence of tracheal microstructure on insect respiratory flows](/presentations/aps_khan2023). In: *Bulletin of the American Physical Society*. Washington, DC, USA: APS.
 
-- Saadbin Khan, Sara Wilmsen, Alexander Zaslavsky, Mrigank Dhingra, Jake Socha, Anne E Staples (2023). [Influence of tracheal microstructure on insect respiratory flows](/presentations/SICB_khan2023). In: *Southeast Regional SICB Meeting 2023*. Blacksburg, VA, USA: Virginia Tech.
+- Saadbin Khan, Sara Wilmsen, Alexander Zaslavsky, Mrigank Dhingra, Jake Socha, Anne E Staples (2023). [Influence of tracheal microstructure on insect respiratory flows](/presentations/sicb_khan2023). In: *Southeast Regional SICB Meeting 2023*. Blacksburg, VA, USA: Virginia Tech.
 
-- Saadbin Khan, Mrigank Dhingra, Jake Socha, Anne E Staples (2023). [Effects of hydrodynamic slip and taenidial structure in insect tracheal flows](/presentations/EM_Symp_khan2023). In: *2023 Engineering Mechanics Research Symposium*. Blacksburg, VA, USA: Virginia Tech.
+- Saadbin Khan, Mrigank Dhingra, Jake Socha, Anne E Staples (2023). [Effects of hydrodynamic slip and taenidial structure in insect tracheal flows](/presentations/em_symp_khan2023). In: *2023 Engineering Mechanics Research Symposium*. Blacksburg, VA, USA: Virginia Tech.
 
-- Saadbin Khan, Mrigank Dhingra, Jake Socha, Anne E Staples (2022). [Effects of hydrodynamic slip and taenidial structure in insect tracheal flows](/presentations/APS_khan2022). In: *Bulletin of the American Physical Society*. Indianapolis, IN, USA: APS.
+- Saadbin Khan, Mrigank Dhingra, Jake Socha, Anne E Staples (2022). [Effects of hydrodynamic slip and taenidial structure in insect tracheal flows](/presentations/aps_khan2022). In: *Bulletin of the American Physical Society*. Indianapolis, IN, USA: APS.
 
-- Anne E Staples, Saadbin Khan, Mrigank Dhingra (2022). [Effects of tracheal microstructures on insect respiratory flows](/presentations/APS_staples2022). In: *Bulletin of the American Physical Society*. University, MS, USA: APS.
+- Anne E Staples, Saadbin Khan, Mrigank Dhingra (2022). [Effects of tracheal microstructures on insect respiratory flows](/presentations/aps_staples2022). In: *Bulletin of the American Physical Society*. University, MS, USA: APS.
 
 ## Recognition & Features
 
-- [Nature Reviews Physics (March 2025)](https://www.nature.com/natrevphys/volumes/7/issues/3) featured [*Mechanisms of Insect Respiration*](/publications/J_khan2025) as the cover article of the journal issue.
+- [Nature Reviews Physics (March 2025)](https://www.nature.com/natrevphys/volumes/7/issues/3) featured [*Mechanisms of Insect Respiration*](/publications/j_khan2025) as the cover article of the journal issue.
 
 - [Virginia Tech News](https://me.vt.edu/news/briefs/staples-nature-physics-reviews-2025.html) highlighted the project and the *Nature Reviews Physics* cover article feature through an institutional research news release.
 
