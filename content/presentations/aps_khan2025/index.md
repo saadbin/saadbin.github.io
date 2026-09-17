@@ -43,5 +43,10 @@ featured: false
 #  caption: 'A modified Murray’s law for insect respiration'
 #  focal_point: Center
 
+links:
+  - type: book-open
+    name: Abstract
+    url: https://meetings-archive.aps.org/dfd/2025/u04/6
+
 projects: [insect-respiration]
 ---
