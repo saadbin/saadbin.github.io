@@ -117,7 +117,7 @@ To address this, a physics-informed inverse modeling framework was developed usi
 - Sparse sensing
 - Reduced-order reconstruction
 
-Using only a small amount of concentration data, the framework can simultaneous recover:
+Using only a small amount of concentration data, the framework can simultaneously recover:
 
 - contaminant source location
 - leak intensity
@@ -134,12 +134,15 @@ Using only a small amount of concentration data, the framework can simultaneous 
 
 ---
 
-## Key Findings
-
-- Gaussian plume models poorly approximate transient evolution
-- Sparse reconstruction recovers source locations with 100% accuracy
-- Leak-rate is predicted with 92% accuracy with only 0.1% data
-- 0.5% and 1% sensor data yield >99% accuracy
+<blockquote class="project-output">
+  <h3>Key Findings</h3>
+  <ul>
+    <li>Gaussian plume models poorly approximate transient evolution.</li>
+    <li>Sparse reconstruction recovers source locations with 100% accuracy.</li>
+    <li>Leak rate is predicted with 92% accuracy with only 0.1% data.</li>
+    <li>0.5% and 1% sensor data yield &gt;99% accuracy.</li>
+  </ul>
+</blockquote>
 
 ---
 

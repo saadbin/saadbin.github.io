@@ -116,13 +116,16 @@ The results demonstrated that:
 
 ---
 
-## Key Findings
-
-- CNT-water nanofluids significantly enhanced convective heat transfer.
-- Sinusoidally curved walls promoted stronger thermal mixing.
-- Increasing nanoparticle concentration improved average Nusselt number.
-- Magnetic fields reduced convective circulation strength through Lorentz-force suppression.
-- Porous media permeability strongly influenced flow structure and heat transfer characteristics.
+<blockquote class="project-output">
+  <h3>Key Findings</h3>
+  <ul>
+    <li>CNT-water nanofluids significantly enhanced convective heat transfer.</li>
+    <li>Sinusoidally curved walls promoted stronger thermal mixing.</li>
+    <li>Increasing nanoparticle concentration improved average Nusselt number.</li>
+    <li>Magnetic fields reduced convective circulation strength through Lorentz-force suppression.</li>
+    <li>Porous media permeability strongly influenced flow structure and heat transfer characteristics.</li>
+  </ul>
+</blockquote>
 
 ---
 

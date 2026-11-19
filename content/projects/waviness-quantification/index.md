@@ -113,12 +113,15 @@ The analysis showed:
 
 ---
 
-## Key Findings
-
-- Collagen fibers exhibited high overall straightness with preferred loading-direction alignment.
-- Fiber waviness strongly influences tissue mechanical behavior.
-- Automated fiber extraction accuracy deteriorates for highly wavy and non-uniform fibers.
-- CT-FIRE segmentation limitations highlight opportunities for improved biomedical image-processing algorithms.
+<blockquote class="project-output">
+  <h3>Key Findings</h3>
+  <ul>
+    <li>Collagen fibers exhibited high overall straightness with preferred loading-direction alignment.</li>
+    <li>Fiber waviness strongly influences tissue mechanical behavior.</li>
+    <li>Automated fiber extraction accuracy deteriorates for highly wavy and non-uniform fibers.</li>
+    <li>CT-FIRE segmentation limitations highlight opportunities for improved biomedical image-processing algorithms.</li>
+  </ul>
+</blockquote>
 
 ---
 

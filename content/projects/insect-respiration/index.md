@@ -31,21 +31,21 @@ tags:
 Insects transport oxygen through an intricate network of air-filled tubes known as tracheae. Unlike vertebrates, this system delivers oxygen directly to tissues without relying on blood circulation. This project combines computational fluid dynamics, rarefied gas simulations, and theoretical transport modeling to investigate how microscale biological structures influence respiratory transport and network optimization.
 
 
-We combine anatomy-informed geometry, continuum CFD, DSMC, deforming-mesh flow simulation, and transport theory to study how this structure affects flow.
+We combine anatomy-informed geometry, continuum CFD, Direct Simulation Monte Carlo (DSMC), deforming-mesh flow simulation, and transport theory to study how this structure affects flow.
 
 <div class="gallery">
 
   <figure>
     <img src="human_insect_breathing.gif" alt="Animated comparison of human-lung and grasshopper-tracheal breathing">
     <figcaption>
-      Human and insect respiratory transport compared side by side. Adapted from Eleanor Lutz, <a href="https://tabletopwhale.com/2014/10/24/3-different-ways-to-breathe.html">“An animated guide to breathing”</a> (2014), Tabletop Whale.
+      Human and insect respiratory transport compared vertically, with the human respiratory system above the insect tracheal system. Adapted from Eleanor Lutz, “An animated guide to breathing” (2014), Tabletop Whale.
     </figcaption>
   </figure>
 
 </div>
 
 <blockquote class="project-takeaway">
-  <strong>Related work.</strong> Check out our Nature Reviews Physics paper:
+  <strong>Related work.</strong> Check out our review paper:
   <ul class="project-manuscript-note project-bibliography">
     <li>Saadbin Khan, Anne E. Staples (2025). <a href="https://doi.org/10.1038/s42254-025-00811-x">Mechanisms of insect respiration</a>. <em>Nature Reviews Physics</em> 7(3), 1–14.</li>
   </ul>
@@ -56,6 +56,19 @@ We combine anatomy-informed geometry, continuum CFD, DSMC, deforming-mesh flow s
 ## 1. Continuum CFD of Insect Tracheal Flow
 
 ### From 2D Taenidial Motifs to 3D Anatomy
+
+Insects breathe through a distributed network of air-filled tubes: larger tracheae branch into fine tracheoles that deliver oxygen directly to tissues.
+
+<div class="gallery">
+
+  <figure>
+    <img src="tracheal_network_forsite.png" alt="Insect tracheal network and schematic of spiracle, trachea, and tracheoles">
+    <figcaption>
+      Insect tracheal architecture. (a) Micro-CT visualization adapted from Hollister W. Herhold’s <a href="https://www.amnh.org/explore/news-blogs/insect-respiratory-atlas">American Museum of Natural History respiratory atlas feature</a> (2023). (b) BioRender schematic of the spiracle–trachea–tracheole pathway prepared for this project.
+    </figcaption>
+  </figure>
+
+</div>
 
 Insect tracheal walls contain helical reinforcements called *taenidia* that support the tube. We hypothesize that these structures may influence microscale gas transport. We began by mimicking the two-dimensional taenidial-layer images reported by Webster et al. (2015) in a controlled CAD model. This isolated how an idealized repeating wall pattern changes flow.
 
@@ -149,6 +162,22 @@ The particle-resolved visualization below shows molecular motion through the rec
 
 </div>
 
+The focused tracking view below follows 20 identified DSMC parcels through the reconstructed tracheal segment and records their end-to-end fate.
+
+<div class="gallery">
+
+  <figure>
+    <video controls loop muted playsinline preload="metadata" style="width:100%; height:auto;">
+      <source src="dsmc_20_parcel_tracking_5fps.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>
+      5-fps tracking of 20 identified DSMC parcels. The tally separates parcels escaping through the wide end, escaping through the narrow end, and remaining inside the domain.
+    </figcaption>
+  </figure>
+
+</div>
+
 The simulations quantify how biologically realistic microstructure changes end-to-end molecular escape.
 
 <div class="gallery">
@@ -171,7 +200,7 @@ The simulations quantify how biologically realistic microstructure changes end-t
 
 ## 3. Dynamic Tracheal-Collapse Simulations
 
-Rhythmic tracheal compression is associated with convective gas exchange in insects (Socha et al., 2008) and exhibits diverse wall-motion patterns in vivo (Waters et al., 2013). We developed dynamic deforming-mesh simulations to examine how idealized propagative collapse and asymmetric wall motion displace air.
+Rhythmic tracheal compression is associated with convective gas exchange in insects and exhibits diverse wall-motion patterns in vivo. We developed dynamic deforming-mesh simulations to examine how idealized propagative collapse and asymmetric wall motion displace air.
 
 ### Propagative Collapse: Analytical Benchmark and CFD Validation
 
@@ -191,14 +220,14 @@ The moving-wall solver was first benchmarked against the propagative rhythmic me
 
 </div>
 
-The five-panel comparison evaluates the original nondimensional analytical model, a dimensional scaling of the same model, and the cycle-resolved OpenFOAM boundary-flow history.
+The three-panel comparison presents the dimensional Aboelkassem (2019) model alongside the cycle-averaged and complete-history OpenFOAM boundary-flow results.
 
 <div class="gallery">
 
   <figure>
-    <img src="case3_q_validation.png" alt="Five-panel propagative-collapse analytical and CFD flow-rate validation comparison">
+    <img src="case3_q_validation.png" alt="Three-panel propagative-collapse analytical and CFD flow-rate validation comparison">
     <figcaption>
-      Analytical and CFD comparison for propagative collapse. The figure contrasts the Aboelkassem (2019) model, its dimensional scaling, and the OpenFOAM boundary-flow response.
+      Three-panel analytical and CFD comparison for propagative collapse. (a) Aboelkassem (2019) propagative-collapse model scaled to the 10 mm × 2 mm × 0.05 mm physical geometry; (b) OpenFOAM cycle average; (c) complete OpenFOAM simulation history.
     </figcaption>
   </figure>
 

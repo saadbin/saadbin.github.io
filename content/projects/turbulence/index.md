@@ -154,14 +154,16 @@ The following visualizations show instantaneous turbulent flow quantities for di
   </figure>
 </div>
 
-## Key Findings
-
-The simulations demonstrated that surface waviness strongly alters turbulent transport dynamics through geometry-induced modifications of near-wall flow structures. Key observations included:
-
-- Enhanced Reynolds stress production near wavy surfaces
-- Strong modulation of coherent near-wall turbulence structures
-- Geometry-driven redistribution of turbulent kinetic energy
-- Significant deviations from classical flat-wall turbulence behavior
+<blockquote class="project-output">
+  <h3>Key Findings</h3>
+  <p>The simulations demonstrated that surface waviness strongly alters turbulent transport dynamics through geometry-induced modifications of near-wall flow structures. Key observations included:</p>
+  <ul>
+    <li>Enhanced Reynolds stress production near wavy surfaces</li>
+    <li>Strong modulation of coherent near-wall turbulence structures</li>
+    <li>Geometry-driven redistribution of turbulent kinetic energy</li>
+    <li>Significant deviations from classical flat-wall turbulence behavior</li>
+  </ul>
+</blockquote>
 
 ---
 
