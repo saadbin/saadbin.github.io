@@ -235,17 +235,17 @@ The three-panel comparison presents the dimensional Aboelkassem (2019) model alo
 
 ### Asymmetric Collapse Informed by Experimental Kinematics
 
-The asymmetric wall-motion model is based on experimentally observed tracheal-compression kinematics (Waters et al., 2013). Its phase-propagating deformation provides the prescribed motion used to investigate the directional flow response to nonuniform collapse.
+The asymmetric wall-motion model is based on an original synchrotron X-ray video tracking tracheal-wall motion. Its phase-propagating deformation provides the prescribed motion used to investigate the directional flow response to nonuniform collapse.
 
 <div class="gallery">
 
   <figure>
     <video controls autoplay loop muted playsinline style="width:100%; height:auto;">
-      <source src="asymmetric_wall_motion_video_comparison_v2.mp4" type="video/mp4">
+      <source src="asymmetric_wall_motion_physical_v3.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>
-      Asymmetric wall-motion model, informed by tracheal-compression kinematics reported by Waters et al. (2013), used to prescribe the deforming-wall simulation. Its phase-propagating motion provides the mechanism investigated for directional flow.
+      Original synchrotron X-ray video with tracked tracheal-wall motion, used to prescribe the asymmetric deforming-wall simulation. Its phase-propagating motion provides the mechanism investigated for directional flow.
     </figcaption>
   </figure>
 
