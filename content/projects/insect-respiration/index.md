@@ -245,7 +245,7 @@ The asymmetric wall-motion model is based on an original synchrotron X-ray video
       Your browser does not support the video tag.
     </video>
     <figcaption>
-      Original synchrotron X-ray video with tracked tracheal-wall motion, used to prescribe the asymmetric deforming-wall simulation. Its phase-propagating motion provides the mechanism investigated for directional flow.
+      Tracked tracheal-wall motion extracted from an original synchrotron X-ray video and used to prescribe the asymmetric deforming-wall simulation. Its phase-propagating motion provides the mechanism investigated for directional flow.
     </figcaption>
   </figure>
 
