@@ -168,11 +168,11 @@ The focused tracking view below follows 20 identified DSMC parcels through the r
 
   <figure>
     <video controls loop muted playsinline preload="metadata" style="width:100%; height:auto;">
-      <source src="dsmc_20_parcel_tracking_5fps.mp4" type="video/mp4">
+      <source src="case6_tracking20_20_unique_parcels_5fps.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>
-      5-fps tracking of 20 identified DSMC parcels. The tally separates parcels escaping through the wide end, escaping through the narrow end, and remaining inside the domain.
+      Tracking of 20 identified DSMC parcels from the unique-parcel trajectory set. The tally separates parcels escaping through the wide end, escaping through the narrow end, and remaining inside the domain.
     </figcaption>
   </figure>
 
